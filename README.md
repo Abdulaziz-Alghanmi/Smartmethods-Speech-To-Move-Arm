@@ -7,5 +7,7 @@ If you  already have servo you can test it by connecting the servo to pin 8 and 
 
 # Commands
 top@
+
 right@
+
 left@
